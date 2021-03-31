@@ -1,6 +1,9 @@
 
 # BIOL5153
-assinment 3 -assn03.tgz
-my CV -EB-CV.md
+
+my CV--> EB-CV.md
+assinment 3 --> assn03.tgz
 write_razor_pbs.py
+write_pinnacle_slurm.py
+assin 05 --->  nucleotide_composition.py
 # BIOL5153
