@@ -15,4 +15,4 @@ write_pinnacle_slurm.py
 
 assin 05 --->  nucleotide_composition.py
 
-assin 06 --->  parse.GFF and o STDOUT.fasta
+assin 06 --->  parse.GFF and STDOUT.fasta
